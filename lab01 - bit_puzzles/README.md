@@ -2,4 +2,4 @@
 
 ### c-practice: implements loop_sum and is_palindrome
 ### gdb-practice: answers questions about gdb debugging
-### c-practice: solves four bit puzzles
+### c-practice: solves bit puzzles
