@@ -4,5 +4,5 @@
 ### gdb-practice: answers questions about gdb debugging
 ### c-practice: solves four bit puzzles
 
-### Author: Elyes Laalai
 ### Course: CS237 Computer Organization, Williams College
+### Author: Elyes Laalai
