@@ -3,6 +3,3 @@
 ### c-practice: implements loop_sum and is_palindrome
 ### gdb-practice: answers questions about gdb debugging
 ### c-practice: solves four bit puzzles
-
-### Course: CS237, Williams College
-### Author: Elyes Laalai
